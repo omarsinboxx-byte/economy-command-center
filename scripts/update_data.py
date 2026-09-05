@@ -97,12 +97,12 @@ def fred_latest(series_id: str):
         raise RuntimeError(f"No observations for {series_id}")
     latest = good[-1]
     previous = good[-2] if len(good) > 1 else latest
-    history = [{"date": d, "value": v} for d, v in good[-120:]]
+    history = [{"date": d, "value": v} for d, v in good[-420:]]
     return latest, previous, history, url
 
 def yahoo_latest(yahoo_symbol: str):
     q = urllib.parse.quote(yahoo_symbol, safe="")
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{q}?range=10d&interval=1d&includePrePost=false&events=div%2Csplits"
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{q}?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits"
     result = get_json(url)["chart"]["result"][0]
     ts = result.get("timestamp") or []
     quote = (result.get("indicators", {}).get("quote") or [{}])[0]
@@ -157,7 +157,7 @@ def refresh_futures(status):
             latest, history, source = yahoo_latest(ysym)
             store["contracts"][symbol] = {
                 "symbol": symbol, "providerSymbol": ysym, "name": name, "category": category, **latest,
-                "history": history[-60:], "source": source, "lastChecked": now_iso(), "status": "current",
+                "history": history[-90:], "source": source, "lastChecked": now_iso(), "status": "current",
             }
             updated += 1
         except Exception as exc:
