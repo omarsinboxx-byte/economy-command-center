@@ -39,6 +39,7 @@ button,input,select{font:inherit}.app{display:grid;grid-template-columns:260px m
 @media(max-width:1120px){.kpi-grid,.summary-kpi-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.summary-signal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.summary-futures{grid-template-columns:repeat(4,minmax(0,1fr))}.two-col{grid-template-columns:1fr}.rate-list{grid-template-columns:repeat(2,minmax(0,1fr))}.hero-grid{grid-template-columns:1fr}.three-col{grid-template-columns:1fr 1fr}}
 @media(max-width:760px){.app{display:block}.sidebar{display:none}.main{padding:18px 14px 150px}.topbar{align-items:flex-start}.topbar h2{font-size:23px}.top-actions .btn span.label{display:none}.kpi-grid,.summary-kpi-grid,.summary-signal-grid,.three-col,.form-grid,.rate-list,.event-form{grid-template-columns:1fr}.event-form .full{grid-column:auto}.summary-futures{grid-template-columns:repeat(2,minmax(0,1fr))}.calendar-stats{grid-template-columns:1fr}.event-row{grid-template-columns:46px 9px minmax(0,1fr)}.event-row>.pill{display:none}.mobile-nav{display:grid;grid-template-columns:repeat(3,1fr);position:fixed;left:10px;right:10px;bottom:10px;z-index:40;border:1px solid var(--line2);border-radius:18px;background:var(--panel2);backdrop-filter:blur(28px);padding:6px;box-shadow:var(--shadow)}.mobile-nav button{border:0;background:transparent;color:var(--muted);border-radius:13px;padding:8px 4px;font-size:9px}.mobile-nav button.active{background:var(--chip);color:var(--text)}.mobile-nav svg{display:block;margin:0 auto 3px;width:17px;height:17px}}
 </style>
+<link rel="stylesheet" href="summary-plus.css">
 </head>
 <body>
 <div class="app">
@@ -508,6 +509,7 @@ function init(){if(!state._summaryHomeSet){state.page='summary';state._summaryHo
 init();
 })();
 </script>
+<script src="summary-plus.js"></script>
 <script src="auto-data.js"></script>
 </body>
 </html>

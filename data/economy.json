@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T04:05:14Z",
+  "updated": "2026-09-05T04:26:46Z",
   "series": {
     "CPIAUCSL": {
       "id": "CPIAUCSL",
@@ -490,7 +490,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL",
-      "lastChecked": "2026-09-05T04:05:00Z",
+      "lastChecked": "2026-09-05T04:26:43Z",
       "status": "current"
     },
     "UNRATE": {
@@ -982,7 +982,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE",
-      "lastChecked": "2026-09-05T04:05:01Z",
+      "lastChecked": "2026-09-05T04:26:43Z",
       "status": "current"
     },
     "PAYEMS": {
@@ -1474,7 +1474,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS",
-      "lastChecked": "2026-09-05T04:05:02Z",
+      "lastChecked": "2026-09-05T04:26:43Z",
       "status": "current"
     },
     "ICSA": {
@@ -1966,7 +1966,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ICSA",
-      "lastChecked": "2026-09-05T04:05:02Z",
+      "lastChecked": "2026-09-05T04:26:43Z",
       "status": "current"
     },
     "DFF": {
@@ -2458,7 +2458,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF",
-      "lastChecked": "2026-09-05T04:05:02Z",
+      "lastChecked": "2026-09-05T04:26:44Z",
       "status": "current"
     },
     "DGS3MO": {
@@ -2950,7 +2950,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS3MO",
-      "lastChecked": "2026-09-05T04:05:05Z",
+      "lastChecked": "2026-09-05T04:26:44Z",
       "status": "current"
     },
     "DGS1": {
@@ -3442,7 +3442,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS1",
-      "lastChecked": "2026-09-05T04:05:13Z",
+      "lastChecked": "2026-09-05T04:26:44Z",
       "status": "current"
     },
     "DGS2": {
@@ -3934,7 +3934,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS2",
-      "lastChecked": "2026-09-05T04:05:13Z",
+      "lastChecked": "2026-09-05T04:26:45Z",
       "status": "current"
     },
     "DGS10": {
@@ -4426,7 +4426,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10",
-      "lastChecked": "2026-09-05T04:05:13Z",
+      "lastChecked": "2026-09-05T04:26:45Z",
       "status": "current"
     },
     "MORTGAGE30US": {
@@ -4918,7 +4918,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US",
-      "lastChecked": "2026-09-05T04:05:13Z",
+      "lastChecked": "2026-09-05T04:26:45Z",
       "status": "current"
     },
     "HOUST": {
@@ -5410,7 +5410,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=HOUST",
-      "lastChecked": "2026-09-05T04:05:13Z",
+      "lastChecked": "2026-09-05T04:26:45Z",
       "status": "current"
     },
     "DCOILWTICO": {
@@ -5902,7 +5902,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILWTICO",
-      "lastChecked": "2026-09-05T04:05:14Z",
+      "lastChecked": "2026-09-05T04:26:46Z",
       "status": "current"
     },
     "DTWEXBGS": {
@@ -6394,7 +6394,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS",
-      "lastChecked": "2026-09-05T04:05:14Z",
+      "lastChecked": "2026-09-05T04:26:46Z",
       "status": "current"
     },
     "VIXCLS": {
@@ -6886,7 +6886,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VIXCLS",
-      "lastChecked": "2026-09-05T04:05:14Z",
+      "lastChecked": "2026-09-05T04:26:46Z",
       "status": "current"
     }
   }
