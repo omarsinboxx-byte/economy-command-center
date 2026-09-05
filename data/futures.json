@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T04:44:11Z",
+  "updated": "2026-09-05T13:37:47Z",
   "contracts": {
     "CL": {
       "symbol": "CL",
@@ -528,7 +528,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:06Z",
+      "lastChecked": "2026-09-05T13:37:42Z",
       "status": "current"
     },
     "BZ": {
@@ -1058,7 +1058,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:06Z",
+      "lastChecked": "2026-09-05T13:37:42Z",
       "status": "current"
     },
     "NG": {
@@ -1588,7 +1588,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/NG%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:07Z",
+      "lastChecked": "2026-09-05T13:37:42Z",
       "status": "current"
     },
     "RB": {
@@ -2118,7 +2118,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/RB%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:07Z",
+      "lastChecked": "2026-09-05T13:37:43Z",
       "status": "current"
     },
     "HO": {
@@ -2648,7 +2648,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/HO%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:07Z",
+      "lastChecked": "2026-09-05T13:37:43Z",
       "status": "current"
     },
     "GC": {
@@ -3178,7 +3178,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:07Z",
+      "lastChecked": "2026-09-05T13:37:43Z",
       "status": "current"
     },
     "SI": {
@@ -3708,7 +3708,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/SI%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:07Z",
+      "lastChecked": "2026-09-05T13:37:43Z",
       "status": "current"
     },
     "HG": {
@@ -4238,7 +4238,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/HG%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:08Z",
+      "lastChecked": "2026-09-05T13:37:44Z",
       "status": "current"
     },
     "PL": {
@@ -4768,7 +4768,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/PL%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:08Z",
+      "lastChecked": "2026-09-05T13:37:44Z",
       "status": "current"
     },
     "ES": {
@@ -5298,7 +5298,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:08Z",
+      "lastChecked": "2026-09-05T13:37:44Z",
       "status": "current"
     },
     "NQ": {
@@ -5828,7 +5828,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:08Z",
+      "lastChecked": "2026-09-05T13:37:45Z",
       "status": "current"
     },
     "YM": {
@@ -6358,7 +6358,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/YM%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:09Z",
+      "lastChecked": "2026-09-05T13:37:45Z",
       "status": "current"
     },
     "RTY": {
@@ -6888,7 +6888,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/RTY%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:09Z",
+      "lastChecked": "2026-09-05T13:37:45Z",
       "status": "current"
     },
     "ZT": {
@@ -7418,7 +7418,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZT%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:09Z",
+      "lastChecked": "2026-09-05T13:37:46Z",
       "status": "current"
     },
     "ZN": {
@@ -7948,7 +7948,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZN%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:09Z",
+      "lastChecked": "2026-09-05T13:37:46Z",
       "status": "current"
     },
     "ZB": {
@@ -8478,7 +8478,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZB%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:10Z",
+      "lastChecked": "2026-09-05T13:37:46Z",
       "status": "current"
     },
     "DX": {
@@ -9008,7 +9008,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:10Z",
+      "lastChecked": "2026-09-05T13:37:46Z",
       "status": "current"
     },
     "ZC": {
@@ -9538,7 +9538,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZC%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:10Z",
+      "lastChecked": "2026-09-05T13:37:47Z",
       "status": "current"
     },
     "ZW": {
@@ -10068,7 +10068,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZW%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:10Z",
+      "lastChecked": "2026-09-05T13:37:47Z",
       "status": "current"
     },
     "ZS": {
@@ -10598,7 +10598,7 @@
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZS%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-05T04:44:11Z",
+      "lastChecked": "2026-09-05T13:37:47Z",
       "status": "current"
     }
   }
