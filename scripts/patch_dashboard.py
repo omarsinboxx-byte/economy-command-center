@@ -26,5 +26,15 @@ if 'window.__FCC_STATE=state;' not in s:
 if '<script src="auto-data.js"></script>' not in s:
     if '</body>' not in s: raise SystemExit('body anchor not found')
     s=s.replace('</body>','<script src="auto-data.js"></script>\n</body>',1)
+if '<link rel="stylesheet" href="summary-plus.css">' not in s:
+    if '</head>' not in s: raise SystemExit('head anchor not found')
+    s=s.replace('</head>','<link rel="stylesheet" href="summary-plus.css">\n</head>',1)
+if '<script src="summary-plus.js"></script>' not in s:
+    if '<script src="auto-data.js"></script>' in s:
+        s=s.replace('<script src="auto-data.js"></script>','<script src="summary-plus.js"></script>\n<script src="auto-data.js"></script>',1)
+    elif '</body>' in s:
+        s=s.replace('</body>','<script src="summary-plus.js"></script>\n</body>',1)
+    else:
+        raise SystemExit('summary script anchor not found')
 p.write_text(s,encoding='utf-8')
-print('Dashboard public-data wiring is ready.')
+print('Dashboard public-data and Summary Plus wiring is ready.')
