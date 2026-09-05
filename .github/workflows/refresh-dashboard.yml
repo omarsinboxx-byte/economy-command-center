@@ -2,6 +2,12 @@ name: Refresh Economy Command Center
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "auto-data.js"
+      - ".github/workflows/refresh-dashboard.yml"
   schedule:
     - cron: "0 7 * * *"
       timezone: "America/New_York"
@@ -21,20 +27,26 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Refresh public economy and market data
+      - name: Wire dashboard to repository data
+        run: python scripts/patch_dashboard.py
+
+      - name: Refresh economy, rates and futures
         run: python scripts/update_data.py
+
+      - name: Refresh economic calendar
+        run: python scripts/update_calendar.py
 
       - name: Build offline snapshot
         run: python scripts/build_offline.py
 
-      - name: Commit changed data
+      - name: Commit generated dashboard data
         shell: bash
         run: |
           git config user.name "economy-command-center-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data offline
+          git add index.html data offline
           if git diff --cached --quiet; then
-            echo "No data changes to commit."
+            echo "No generated changes."
           else
             git commit -m "chore: refresh dashboard data"
             git push
