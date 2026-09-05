@@ -7,6 +7,8 @@ on:
     paths:
       - "scripts/**"
       - "auto-data.js"
+      - "summary-plus.js"
+      - "summary-plus.css"
       - ".github/workflows/refresh-dashboard.yml"
   schedule:
     - cron: "0 7 * * *"
