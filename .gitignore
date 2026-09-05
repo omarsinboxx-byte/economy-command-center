@@ -1,0 +1,21 @@
+# Secrets / local configuration
+.env
+.env.*
+*.pem
+*.key
+secrets.json
+private-settings*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary exports
+*.tmp
+*.log
