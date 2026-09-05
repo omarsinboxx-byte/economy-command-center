@@ -1,8 +1,38 @@
 #!/usr/bin/env python3
+import re
 from pathlib import Path
+
 ROOT=Path(__file__).resolve().parents[1]
 p=ROOT/'index.html'
 s=p.read_text(encoding='utf-8')
+
+# Keep this project focused on economy, markets, rates and catalysts.
+# Remove the retirement page, navigation entries and its active runtime hooks.
+s=re.sub(r'\n\s*<button class="nav-btn" data-page="retirement">.*?</button>','',s,count=1,flags=re.S)
+s=re.sub(r'\n\s*<button data-page="retirement">.*?</button>','',s,count=1,flags=re.S)
+s=re.sub(
+    r'\n\s*<section class="page" id="page-retirement">.*?</section>\s*(?=<section class="page" id="page-rates">)',
+    '\n\n    ',s,count=1,flags=re.S
+)
+s=s.replace(",retirement:['LONG-TERM PLAN','Retirement & Financial Freedom']",'')
+s=s.replace(
+    "function setPage(page){state.page=page;",
+    "function setPage(page){if(page==='retirement')page='summary';state.page=page;"
+)
+s=s.replace(
+    'function recalcAll(){recalcEconomy();recalcRetirement();recalcRates();',
+    'function recalcAll(){recalcEconomy();recalcRates();'
+)
+s=s.replace("if(state.page==='retirement')recalcRetirement();",'')
+s=re.sub(r'function calcRetirement\(ageTarget\)\{.*?(?=function renderRates\(\))','',s,count=1,flags=re.S)
+s=re.sub(
+    r";\$\('#retireReset'\)\.addEventListener\('click',\(\)=>\{.*?toast\('Retirement model reset\.'\)\}\)",
+    '',s,count=1,flags=re.S
+)
+s=s.replace("Object.entries(state.retire).forEach(([field,value])=>rows.push({section:'retirement',field,value}));",'')
+s=s.replace("const retirement=Object.entries(state.retire).map(([Field,Value])=>({Field,Value}));",'')
+s=s.replace("XLSX.utils.book_append_sheet(wb,XLSX.utils.json_to_sheet(retirement),'Retirement');",'')
+
 if 'id="publicDataStatus"' not in s:
     old='''    <div class="side-foot">
       <div class="mini">Autosaves locally in your browser. No account required.</div>
@@ -36,5 +66,6 @@ if '<script src="summary-plus.js"></script>' not in s:
         s=s.replace('</body>','<script src="summary-plus.js"></script>\n</body>',1)
     else:
         raise SystemExit('summary script anchor not found')
+
 p.write_text(s,encoding='utf-8')
-print('Dashboard public-data and Summary Plus wiring is ready.')
+print('Dashboard wiring is ready; retirement page removed.')
