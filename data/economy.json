@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T16:13:57Z",
+  "updated": "2026-09-08T14:50:42Z",
   "series": {
     "CPIAUCSL": {
       "id": "CPIAUCSL",
@@ -1690,7 +1690,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL",
-      "lastChecked": "2026-09-07T16:13:55Z",
+      "lastChecked": "2026-09-08T14:50:29Z",
       "status": "current"
     },
     "UNRATE": {
@@ -3382,7 +3382,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE",
-      "lastChecked": "2026-09-07T16:13:55Z",
+      "lastChecked": "2026-09-08T14:50:30Z",
       "status": "current"
     },
     "PAYEMS": {
@@ -5074,7 +5074,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS",
-      "lastChecked": "2026-09-07T16:13:55Z",
+      "lastChecked": "2026-09-08T14:50:30Z",
       "status": "current"
     },
     "ICSA": {
@@ -6766,7 +6766,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ICSA",
-      "lastChecked": "2026-09-07T16:13:56Z",
+      "lastChecked": "2026-09-08T14:50:30Z",
       "status": "current"
     },
     "DFF": {
@@ -8458,7 +8458,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF",
-      "lastChecked": "2026-09-07T16:13:56Z",
+      "lastChecked": "2026-09-08T14:50:31Z",
       "status": "current"
     },
     "DGS3MO": {
@@ -10150,7 +10150,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS3MO",
-      "lastChecked": "2026-09-07T16:13:56Z",
+      "lastChecked": "2026-09-08T14:50:34Z",
       "status": "current"
     },
     "DGS1": {
@@ -11842,7 +11842,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS1",
-      "lastChecked": "2026-09-07T16:13:56Z",
+      "lastChecked": "2026-09-08T14:50:39Z",
       "status": "current"
     },
     "DGS2": {
@@ -13534,7 +13534,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS2",
-      "lastChecked": "2026-09-07T16:13:56Z",
+      "lastChecked": "2026-09-08T14:50:39Z",
       "status": "current"
     },
     "DGS10": {
@@ -15226,7 +15226,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10",
-      "lastChecked": "2026-09-07T16:13:57Z",
+      "lastChecked": "2026-09-08T14:50:39Z",
       "status": "current"
     },
     "MORTGAGE30US": {
@@ -16918,7 +16918,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US",
-      "lastChecked": "2026-09-07T16:13:57Z",
+      "lastChecked": "2026-09-08T14:50:39Z",
       "status": "current"
     },
     "HOUST": {
@@ -18610,7 +18610,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=HOUST",
-      "lastChecked": "2026-09-07T16:13:57Z",
+      "lastChecked": "2026-09-08T14:50:39Z",
       "status": "current"
     },
     "DCOILWTICO": {
@@ -20302,7 +20302,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILWTICO",
-      "lastChecked": "2026-09-07T16:13:57Z",
+      "lastChecked": "2026-09-08T14:50:41Z",
       "status": "current"
     },
     "DTWEXBGS": {
@@ -21994,24 +21994,16 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS",
-      "lastChecked": "2026-09-07T16:13:57Z",
+      "lastChecked": "2026-09-08T14:50:42Z",
       "status": "current"
     },
     "VIXCLS": {
       "id": "VIXCLS",
       "name": "VIX",
-      "date": "2026-09-03",
-      "latest": 14.32,
-      "previous": 15.2,
+      "date": "2026-09-07",
+      "latest": 15.3,
+      "previous": 14.53,
       "history": [
-        {
-          "date": "2025-01-20",
-          "value": 15.81
-        },
-        {
-          "date": "2025-01-21",
-          "value": 15.06
-        },
         {
           "date": "2025-01-22",
           "value": 15.1
@@ -23683,10 +23675,18 @@
         {
           "date": "2026-09-03",
           "value": 14.32
+        },
+        {
+          "date": "2026-09-04",
+          "value": 14.53
+        },
+        {
+          "date": "2026-09-07",
+          "value": 15.3
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VIXCLS",
-      "lastChecked": "2026-09-07T16:13:57Z",
+      "lastChecked": "2026-09-08T14:50:42Z",
       "status": "current"
     }
   }
