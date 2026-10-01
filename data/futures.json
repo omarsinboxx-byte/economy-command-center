@@ -1,27 +1,19 @@
 {
-  "updated": "2026-09-30T16:35:18Z",
+  "updated": "2026-10-01T17:13:10Z",
   "contracts": {
     "CL": {
       "symbol": "CL",
       "providerSymbol": "CL=F",
       "name": "WTI Crude Oil",
       "category": "Energy",
-      "date": "2026-09-30",
-      "latest": 91.4000015258789,
-      "open": 89.0,
-      "high": 91.95999908447266,
-      "low": 88.58000183105469,
-      "volume": 202034.0,
-      "previous": 89.37999725341797,
+      "date": "2026-10-01",
+      "latest": 92.05000305175781,
+      "open": 90.4000015258789,
+      "high": 92.97000122070312,
+      "low": 88.79000091552734,
+      "volume": 229387.0,
+      "previous": 90.41999816894531,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 69.5,
-          "open": 70.43000030517578,
-          "high": 71.5999984741211,
-          "low": 69.22000122070312,
-          "volume": 194279.0
-        },
         {
           "date": "2026-07-01",
           "latest": 68.58000183105469,
@@ -524,19 +516,27 @@
           "open": 93.52999877929688,
           "high": 94.73999786376953,
           "low": 88.77999877929688,
-          "volume": 370326.0
+          "volume": 335169.0
         },
         {
           "date": "2026-09-30",
-          "latest": 91.4000015258789,
+          "latest": 90.41999816894531,
           "open": 89.0,
           "high": 91.95999908447266,
           "low": 88.58000183105469,
-          "volume": 202034.0
+          "volume": 335169.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 92.05000305175781,
+          "open": 90.4000015258789,
+          "high": 92.97000122070312,
+          "low": 88.79000091552734,
+          "volume": 229387.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:13Z",
+      "lastChecked": "2026-10-01T17:13:05Z",
       "status": "current"
     },
     "BZ": {
@@ -544,22 +544,14 @@
       "providerSymbol": "BZ=F",
       "name": "Brent Crude Oil",
       "category": "Energy",
-      "date": "2026-09-30",
-      "latest": 98.80999755859375,
-      "open": 95.94999694824219,
-      "high": 99.27999877929688,
-      "low": 95.13999938964844,
-      "volume": 43440.0,
-      "previous": 102.58999633789062,
+      "date": "2026-10-01",
+      "latest": 101.2699966430664,
+      "open": 97.95999908447266,
+      "high": 101.86000061035156,
+      "low": 96.55999755859375,
+      "volume": 44160.0,
+      "previous": 103.52999877929688,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 72.91999816894531,
-          "open": 72.69999694824219,
-          "high": 73.52999877929688,
-          "low": 72.12000274658203,
-          "volume": 39706.0
-        },
         {
           "date": "2026-07-01",
           "latest": 71.56999969482422,
@@ -1062,19 +1054,27 @@
           "open": 106.13999938964844,
           "high": 107.61000061035156,
           "low": 102.27999877929688,
-          "volume": 15803.0
+          "volume": 11974.0
         },
         {
           "date": "2026-09-30",
-          "latest": 98.80999755859375,
-          "open": 95.94999694824219,
-          "high": 99.27999877929688,
-          "low": 95.13999938964844,
-          "volume": 43440.0
+          "latest": 103.52999877929688,
+          "open": 103.56999969482422,
+          "high": 103.95999908447266,
+          "low": 102.16000366210938,
+          "volume": 11974.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 101.2699966430664,
+          "open": 97.95999908447266,
+          "high": 101.86000061035156,
+          "low": 96.55999755859375,
+          "volume": 44160.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:13Z",
+      "lastChecked": "2026-10-01T17:13:05Z",
       "status": "current"
     },
     "NG": {
@@ -1082,22 +1082,14 @@
       "providerSymbol": "NG=F",
       "name": "Natural Gas",
       "category": "Energy",
-      "date": "2026-09-30",
-      "latest": 3.009999990463257,
-      "open": 3.0139999389648438,
-      "high": 3.058000087738037,
-      "low": 2.9660000801086426,
-      "volume": 94558.0,
-      "previous": 3.010999917984009,
+      "date": "2026-10-01",
+      "latest": 2.9670000076293945,
+      "open": 3.0160000324249268,
+      "high": 3.0209999084472656,
+      "low": 2.947999954223633,
+      "volume": 103545.0,
+      "previous": 3.0260000228881836,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 3.2750000953674316,
-          "open": 3.1710000038146973,
-          "high": 3.328000068664551,
-          "low": 3.1589999198913574,
-          "volume": 207986.0
-        },
         {
           "date": "2026-07-01",
           "latest": 3.2200000286102295,
@@ -1600,19 +1592,27 @@
           "open": 3.1489999294281006,
           "high": 3.1559998989105225,
           "low": 3.0,
-          "volume": 212563.0
+          "volume": 188222.0
         },
         {
           "date": "2026-09-30",
-          "latest": 3.009999990463257,
+          "latest": 3.0260000228881836,
           "open": 3.0139999389648438,
           "high": 3.058000087738037,
           "low": 2.9660000801086426,
-          "volume": 94558.0
+          "volume": 188222.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 2.9670000076293945,
+          "open": 3.0160000324249268,
+          "high": 3.0209999084472656,
+          "low": 2.947999954223633,
+          "volume": 103545.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/NG%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:13Z",
+      "lastChecked": "2026-10-01T17:13:06Z",
       "status": "current"
     },
     "RB": {
@@ -1620,22 +1620,14 @@
       "providerSymbol": "RB=F",
       "name": "RBOB Gasoline",
       "category": "Energy",
-      "date": "2026-09-30",
-      "latest": 3.2785000801086426,
-      "open": 3.1098999977111816,
-      "high": 3.2860000133514404,
-      "low": 3.1040000915527344,
-      "volume": 35680.0,
-      "previous": 3.2781999111175537,
+      "date": "2026-10-01",
+      "latest": 3.362600088119507,
+      "open": 3.2720000743865967,
+      "high": 3.3731000423431396,
+      "low": 3.2358999252319336,
+      "volume": 34550.0,
+      "previous": 3.4377999305725098,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 3.014400005340576,
-          "open": 3.0360000133514404,
-          "high": 3.0648999214172363,
-          "low": 2.974299907684326,
-          "volume": 62438.0
-        },
         {
           "date": "2026-07-01",
           "latest": 2.945199966430664,
@@ -2138,19 +2130,27 @@
           "open": 3.329400062561035,
           "high": 3.340399980545044,
           "low": 3.232800006866455,
-          "volume": 28564.0
+          "volume": 19068.0
         },
         {
           "date": "2026-09-30",
-          "latest": 3.2785000801086426,
-          "open": 3.1098999977111816,
-          "high": 3.2860000133514404,
-          "low": 3.1040000915527344,
-          "volume": 35680.0
+          "latest": 3.4377999305725098,
+          "open": 3.2302000522613525,
+          "high": 3.4495999813079834,
+          "low": 3.229599952697754,
+          "volume": 19068.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 3.362600088119507,
+          "open": 3.2720000743865967,
+          "high": 3.3731000423431396,
+          "low": 3.2358999252319336,
+          "volume": 34550.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/RB%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:14Z",
+      "lastChecked": "2026-10-01T17:13:06Z",
       "status": "current"
     },
     "HO": {
@@ -2158,22 +2158,14 @@
       "providerSymbol": "HO=F",
       "name": "Heating Oil / ULSD",
       "category": "Energy",
-      "date": "2026-09-30",
-      "latest": 4.68120002746582,
-      "open": 4.534800052642822,
-      "high": 4.794099807739258,
-      "low": 4.51609992980957,
-      "volume": 33634.0,
-      "previous": 4.897900104522705,
+      "date": "2026-10-01",
+      "latest": 4.581399917602539,
+      "open": 4.694499969482422,
+      "high": 4.783100128173828,
+      "low": 4.553599834442139,
+      "volume": 34006.0,
+      "previous": 4.956900119781494,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 3.316800117492676,
-          "open": 3.305999994277954,
-          "high": 3.4059998989105225,
-          "low": 3.2744998931884766,
-          "volume": 42941.0
-        },
         {
           "date": "2026-07-01",
           "latest": 3.217900037765503,
@@ -2676,19 +2668,27 @@
           "open": 4.7957000732421875,
           "high": 4.921999931335449,
           "low": 4.605000019073486,
-          "volume": 18696.0
+          "volume": 17135.0
         },
         {
           "date": "2026-09-30",
-          "latest": 4.68120002746582,
-          "open": 4.534800052642822,
-          "high": 4.794099807739258,
-          "low": 4.51609992980957,
-          "volume": 33634.0
+          "latest": 4.956900119781494,
+          "open": 4.866199970245361,
+          "high": 5.427499771118164,
+          "low": 4.86299991607666,
+          "volume": 17135.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 4.581399917602539,
+          "open": 4.694499969482422,
+          "high": 4.783100128173828,
+          "low": 4.553599834442139,
+          "volume": 34006.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/HO%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:14Z",
+      "lastChecked": "2026-10-01T17:13:06Z",
       "status": "current"
     },
     "GC": {
@@ -2696,22 +2696,14 @@
       "providerSymbol": "GC=F",
       "name": "Gold",
       "category": "Metals",
-      "date": "2026-09-30",
-      "latest": 4193.5,
-      "open": 4216.2001953125,
-      "high": 4251.10009765625,
-      "low": 4182.10009765625,
-      "volume": 124217.0,
-      "previous": 4179.7001953125,
+      "date": "2026-10-01",
+      "latest": 4194.7001953125,
+      "open": 4190.10009765625,
+      "high": 4222.7998046875,
+      "low": 4169.39990234375,
+      "volume": 102675.0,
+      "previous": 4186.7001953125,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 4038.5,
-          "open": 4032.5,
-          "high": 4078.10009765625,
-          "low": 3955.39990234375,
-          "volume": 125413.0
-        },
         {
           "date": "2026-07-01",
           "latest": 4082.39990234375,
@@ -3198,7 +3190,7 @@
           "open": 4309.5,
           "high": 4351.60009765625,
           "low": 4289.2001953125,
-          "volume": 140092.0
+          "volume": 164814.0
         },
         {
           "date": "2026-09-28",
@@ -3214,19 +3206,27 @@
           "open": 4150.10009765625,
           "high": 4218.10009765625,
           "low": 4145.2001953125,
-          "volume": 229031.0
+          "volume": 149747.0
         },
         {
           "date": "2026-09-30",
-          "latest": 4193.5,
+          "latest": 4186.7001953125,
           "open": 4216.2001953125,
           "high": 4251.10009765625,
-          "low": 4182.10009765625,
-          "volume": 124217.0
+          "low": 4178.2001953125,
+          "volume": 149747.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 4194.7001953125,
+          "open": 4190.10009765625,
+          "high": 4222.7998046875,
+          "low": 4169.39990234375,
+          "volume": 102675.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:14Z",
+      "lastChecked": "2026-10-01T17:13:06Z",
       "status": "current"
     },
     "SI": {
@@ -3234,22 +3234,14 @@
       "providerSymbol": "SI=F",
       "name": "Silver",
       "category": "Metals",
-      "date": "2026-09-30",
-      "latest": 60.685001373291016,
-      "open": 61.834999084472656,
-      "high": 62.11000061035156,
-      "low": 60.435001373291016,
-      "volume": 32841.0,
-      "previous": 60.667999267578125,
+      "date": "2026-10-01",
+      "latest": 60.94499969482422,
+      "open": 60.775001525878906,
+      "high": 61.75,
+      "low": 60.2599983215332,
+      "volume": 29935.0,
+      "previous": 60.097999572753906,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 59.47700119018555,
-          "open": 58.34000015258789,
-          "high": 60.400001525878906,
-          "low": 57.03499984741211,
-          "volume": 1886.0
-        },
         {
           "date": "2026-07-01",
           "latest": 60.084999084472656,
@@ -3752,19 +3744,27 @@
           "open": 60.65999984741211,
           "high": 61.20000076293945,
           "low": 60.494998931884766,
-          "volume": 1386.0
+          "volume": 146.0
         },
         {
           "date": "2026-09-30",
-          "latest": 60.685001373291016,
-          "open": 61.834999084472656,
-          "high": 62.11000061035156,
-          "low": 60.435001373291016,
-          "volume": 32841.0
+          "latest": 60.097999572753906,
+          "open": 60.81999969482422,
+          "high": 60.81999969482422,
+          "low": 60.0,
+          "volume": 146.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 60.94499969482422,
+          "open": 60.775001525878906,
+          "high": 61.75,
+          "low": 60.2599983215332,
+          "volume": 29935.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/SI%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:14Z",
+      "lastChecked": "2026-10-01T17:13:07Z",
       "status": "current"
     },
     "HG": {
@@ -3772,22 +3772,14 @@
       "providerSymbol": "HG=F",
       "name": "Copper",
       "category": "Metals",
-      "date": "2026-09-30",
-      "latest": 6.623499870300293,
-      "open": 6.6539998054504395,
-      "high": 6.691500186920166,
-      "low": 6.602499961853027,
-      "volume": 35165.0,
-      "previous": 6.543499946594238,
+      "date": "2026-10-01",
+      "latest": 6.544000148773193,
+      "open": 6.638000011444092,
+      "high": 6.645999908447266,
+      "low": 6.508999824523926,
+      "volume": 38450.0,
+      "previous": 6.559000015258789,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 6.192500114440918,
-          "open": 6.112500190734863,
-          "high": 6.251999855041504,
-          "low": 6.050000190734863,
-          "volume": 1742.0
-        },
         {
           "date": "2026-07-01",
           "latest": 6.123499870300293,
@@ -4290,19 +4282,27 @@
           "open": 6.560999870300293,
           "high": 6.598999977111816,
           "low": 6.519000053405762,
-          "volume": 8787.0
+          "volume": 3288.0
         },
         {
           "date": "2026-09-30",
-          "latest": 6.623499870300293,
-          "open": 6.6539998054504395,
-          "high": 6.691500186920166,
-          "low": 6.602499961853027,
-          "volume": 35165.0
+          "latest": 6.559000015258789,
+          "open": 6.5894999504089355,
+          "high": 6.5894999504089355,
+          "low": 6.549499988555908,
+          "volume": 3288.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 6.544000148773193,
+          "open": 6.638000011444092,
+          "high": 6.645999908447266,
+          "low": 6.508999824523926,
+          "volume": 38450.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/HG%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:15Z",
+      "lastChecked": "2026-10-01T17:13:07Z",
       "status": "current"
     },
     "PL": {
@@ -4310,22 +4310,14 @@
       "providerSymbol": "PL=F",
       "name": "Platinum",
       "category": "Metals",
-      "date": "2026-09-30",
-      "latest": 1716.5999755859375,
-      "open": 1720.199951171875,
-      "high": 1741.0999755859375,
-      "low": 1712.4000244140625,
-      "volume": 11696.0,
-      "previous": 1680.0999755859375,
+      "date": "2026-10-01",
+      "latest": 1721.5,
+      "open": 1723.5,
+      "high": 1750.0,
+      "low": 1707.0,
+      "volume": 14958.0,
+      "previous": 1702.300048828125,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 1550.199951171875,
-          "open": 1574.0999755859375,
-          "high": 1588.199951171875,
-          "low": 1550.0,
-          "volume": 44.0
-        },
         {
           "date": "2026-07-01",
           "latest": 1588.9000244140625,
@@ -4828,19 +4820,27 @@
           "open": 1716.9000244140625,
           "high": 1716.9000244140625,
           "low": 1677.0,
-          "volume": 6877.0
+          "volume": 1005.0
         },
         {
           "date": "2026-09-30",
-          "latest": 1716.5999755859375,
-          "open": 1720.199951171875,
-          "high": 1741.0999755859375,
-          "low": 1712.4000244140625,
-          "volume": 11696.0
+          "latest": 1702.300048828125,
+          "open": 1706.0,
+          "high": 1706.0,
+          "low": 1698.0,
+          "volume": 1005.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 1721.5,
+          "open": 1723.5,
+          "high": 1750.0,
+          "low": 1707.0,
+          "volume": 14958.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/PL%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:15Z",
+      "lastChecked": "2026-10-01T17:13:07Z",
       "status": "current"
     },
     "ES": {
@@ -4848,22 +4848,14 @@
       "providerSymbol": "ES=F",
       "name": "S&P 500 E-mini",
       "category": "Equity Index",
-      "date": "2026-09-30",
-      "latest": 7770.5,
-      "open": 7739.0,
-      "high": 7782.0,
-      "low": 7719.5,
-      "volume": 1037046.0,
-      "previous": 7732.0,
+      "date": "2026-10-01",
+      "latest": 7701.0,
+      "open": 7719.5,
+      "high": 7767.75,
+      "low": 7672.75,
+      "volume": 1448707.0,
+      "previous": 7715.5,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 7548.25,
-          "open": 7495.5,
-          "high": 7567.75,
-          "low": 7481.75,
-          "volume": 1347483.0
-        },
         {
           "date": "2026-07-01",
           "latest": 7543.5,
@@ -5366,19 +5358,27 @@
           "open": 7746.5,
           "high": 7770.75,
           "low": 7712.25,
-          "volume": 1768110.0
+          "volume": 1643532.0
         },
         {
           "date": "2026-09-30",
-          "latest": 7770.5,
+          "latest": 7715.5,
           "open": 7739.0,
           "high": 7782.0,
-          "low": 7719.5,
-          "volume": 1037046.0
+          "low": 7705.5,
+          "volume": 1643532.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 7701.0,
+          "open": 7719.5,
+          "high": 7767.75,
+          "low": 7672.75,
+          "volume": 1448707.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:15Z",
+      "lastChecked": "2026-10-01T17:13:07Z",
       "status": "current"
     },
     "NQ": {
@@ -5386,22 +5386,14 @@
       "providerSymbol": "NQ=F",
       "name": "Nasdaq-100 E-mini",
       "category": "Equity Index",
-      "date": "2026-09-30",
-      "latest": 30865.25,
-      "open": 30657.25,
-      "high": 30906.0,
-      "low": 30512.25,
-      "volume": 394281.0,
-      "previous": 30613.25,
+      "date": "2026-10-01",
+      "latest": 30633.5,
+      "open": 30707.0,
+      "high": 31151.5,
+      "low": 30529.25,
+      "volume": 572730.0,
+      "previous": 30698.75,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 30523.5,
-          "open": 30007.25,
-          "high": 30599.75,
-          "low": 29934.75,
-          "volume": 482570.0
-        },
         {
           "date": "2026-07-01",
           "latest": 30094.25,
@@ -5904,19 +5896,27 @@
           "open": 30560.5,
           "high": 30725.5,
           "low": 30372.25,
-          "volume": 678480.0
+          "volume": 585162.0
         },
         {
           "date": "2026-09-30",
-          "latest": 30865.25,
+          "latest": 30698.75,
           "open": 30657.25,
           "high": 30906.0,
           "low": 30512.25,
-          "volume": 394281.0
+          "volume": 585162.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 30633.5,
+          "open": 30707.0,
+          "high": 31151.5,
+          "low": 30529.25,
+          "volume": 572730.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:16Z",
+      "lastChecked": "2026-10-01T17:13:07Z",
       "status": "current"
     },
     "YM": {
@@ -5924,22 +5924,14 @@
       "providerSymbol": "YM=F",
       "name": "Dow E-mini",
       "category": "Equity Index",
-      "date": "2026-09-30",
-      "latest": 51635.0,
-      "open": 51765.0,
-      "high": 51997.0,
-      "low": 51586.0,
-      "volume": 50334.0,
-      "previous": 51702.0,
+      "date": "2026-10-01",
+      "latest": 51138.0,
+      "open": 51335.0,
+      "high": 51517.0,
+      "low": 50859.0,
+      "volume": 77903.0,
+      "previous": 51278.0,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 52670.0,
-          "open": 52554.0,
-          "high": 52763.0,
-          "low": 52383.0,
-          "volume": 74881.0
-        },
         {
           "date": "2026-07-01",
           "latest": 52668.0,
@@ -6442,19 +6434,27 @@
           "open": 51845.0,
           "high": 52002.0,
           "low": 51459.0,
-          "volume": 79925.0
+          "volume": 81413.0
         },
         {
           "date": "2026-09-30",
-          "latest": 51635.0,
+          "latest": 51278.0,
           "open": 51765.0,
           "high": 51997.0,
-          "low": 51586.0,
-          "volume": 50334.0
+          "low": 51218.0,
+          "volume": 81413.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 51138.0,
+          "open": 51335.0,
+          "high": 51517.0,
+          "low": 50859.0,
+          "volume": 77903.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/YM%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:16Z",
+      "lastChecked": "2026-10-01T17:13:08Z",
       "status": "current"
     },
     "RTY": {
@@ -6462,22 +6462,14 @@
       "providerSymbol": "RTY=F",
       "name": "Russell 2000 E-mini",
       "category": "Equity Index",
-      "date": "2026-09-30",
-      "latest": 2832.89990234375,
-      "open": 2831.60009765625,
-      "high": 2853.800048828125,
-      "low": 2819.699951171875,
-      "volume": 122073.0,
-      "previous": 2829.199951171875,
+      "date": "2026-10-01",
+      "latest": 2824.39990234375,
+      "open": 2819.60009765625,
+      "high": 2835.199951171875,
+      "low": 2791.5,
+      "volume": 169448.0,
+      "previous": 2817.5,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 3045.60009765625,
-          "open": 3026.10009765625,
-          "high": 3050.60009765625,
-          "low": 3015.10009765625,
-          "volume": 146316.0
-        },
         {
           "date": "2026-07-01",
           "latest": 3035.10009765625,
@@ -6980,19 +6972,27 @@
           "open": 2839.60009765625,
           "high": 2851.800048828125,
           "low": 2811.89990234375,
-          "volume": 196523.0
+          "volume": 177184.0
         },
         {
           "date": "2026-09-30",
-          "latest": 2832.89990234375,
+          "latest": 2817.5,
           "open": 2831.60009765625,
           "high": 2853.800048828125,
-          "low": 2819.699951171875,
-          "volume": 122073.0
+          "low": 2812.800048828125,
+          "volume": 177184.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 2824.39990234375,
+          "open": 2819.60009765625,
+          "high": 2835.199951171875,
+          "low": 2791.5,
+          "volume": 169448.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/RTY%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:16Z",
+      "lastChecked": "2026-10-01T17:13:08Z",
       "status": "current"
     },
     "ZT": {
@@ -7000,22 +7000,14 @@
       "providerSymbol": "ZT=F",
       "name": "2-Year Treasury Note",
       "category": "Rates & FX",
-      "date": "2026-09-30",
-      "latest": 101.6640625,
-      "open": 101.68359375,
-      "high": 101.76953125,
-      "low": 101.6484375,
-      "volume": 1113794.0,
-      "previous": 101.9375,
+      "date": "2026-10-01",
+      "latest": 101.85546875,
+      "open": 101.64453125,
+      "high": 101.859375,
+      "low": 101.58203125,
+      "volume": 1225287.0,
+      "previous": 101.953125,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 103.19921875,
-          "open": 103.2109375,
-          "high": 103.2109375,
-          "low": 103.19921875,
-          "volume": 914203.0
-        },
         {
           "date": "2026-07-01",
           "latest": 103.01953125,
@@ -7518,19 +7510,27 @@
           "open": 101.890625,
           "high": 101.9375,
           "low": 101.8515625,
-          "volume": 402.0
+          "volume": 457.0
         },
         {
           "date": "2026-09-30",
-          "latest": 101.6640625,
-          "open": 101.68359375,
-          "high": 101.76953125,
-          "low": 101.6484375,
-          "volume": 1113794.0
+          "latest": 101.953125,
+          "open": 101.95703125,
+          "high": 101.95703125,
+          "low": 101.953125,
+          "volume": 457.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 101.85546875,
+          "open": 101.64453125,
+          "high": 101.859375,
+          "low": 101.58203125,
+          "volume": 1225287.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZT%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:16Z",
+      "lastChecked": "2026-10-01T17:13:08Z",
       "status": "current"
     },
     "ZN": {
@@ -7538,22 +7538,14 @@
       "providerSymbol": "ZN=F",
       "name": "10-Year Treasury Note",
       "category": "Rates & FX",
-      "date": "2026-09-30",
-      "latest": 104.28125,
-      "open": 104.53125,
-      "high": 104.796875,
-      "low": 104.234375,
-      "volume": 2330640.0,
-      "previous": 104.421875,
+      "date": "2026-10-01",
+      "latest": 104.703125,
+      "open": 104.21875,
+      "high": 104.71875,
+      "low": 103.890625,
+      "volume": 2722956.0,
+      "previous": 104.203125,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 109.890625,
-          "open": 110.1875,
-          "high": 110.3125,
-          "low": 109.609375,
-          "volume": 2188202.0
-        },
         {
           "date": "2026-07-01",
           "latest": 109.578125,
@@ -8056,19 +8048,27 @@
           "open": 104.46875,
           "high": 104.703125,
           "low": 104.171875,
-          "volume": 3159565.0
+          "volume": 3154126.0
         },
         {
           "date": "2026-09-30",
-          "latest": 104.28125,
+          "latest": 104.203125,
           "open": 104.53125,
           "high": 104.796875,
-          "low": 104.234375,
-          "volume": 2330640.0
+          "low": 104.125,
+          "volume": 3154126.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 104.703125,
+          "open": 104.21875,
+          "high": 104.71875,
+          "low": 103.890625,
+          "volume": 2722956.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZN%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:17Z",
+      "lastChecked": "2026-10-01T17:13:08Z",
       "status": "current"
     },
     "ZB": {
@@ -8076,22 +8076,14 @@
       "providerSymbol": "ZB=F",
       "name": "30-Year Treasury Bond",
       "category": "Rates & FX",
-      "date": "2026-09-30",
-      "latest": 102.75,
-      "open": 103.59375,
-      "high": 103.96875,
-      "low": 102.65625,
-      "volume": 486189.0,
-      "previous": 103.25,
+      "date": "2026-10-01",
+      "latest": 103.1875,
+      "open": 102.75,
+      "high": 103.1875,
+      "low": 101.90625,
+      "volume": 684645.0,
+      "previous": 102.65625,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 113.5,
-          "open": 114.125,
-          "high": 114.375,
-          "low": 112.75,
-          "volume": 674444.0
-        },
         {
           "date": "2026-07-01",
           "latest": 112.65625,
@@ -8594,19 +8586,27 @@
           "open": 103.875,
           "high": 104.1875,
           "low": 102.90625,
-          "volume": 786325.0
+          "volume": 852874.0
         },
         {
           "date": "2026-09-30",
-          "latest": 102.75,
+          "latest": 102.65625,
           "open": 103.59375,
           "high": 103.96875,
-          "low": 102.65625,
-          "volume": 486189.0
+          "low": 102.5,
+          "volume": 852874.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 103.1875,
+          "open": 102.75,
+          "high": 103.1875,
+          "low": 101.90625,
+          "volume": 684645.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZB%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:17Z",
+      "lastChecked": "2026-10-01T17:13:09Z",
       "status": "current"
     },
     "DX": {
@@ -8614,22 +8614,14 @@
       "providerSymbol": "DX-Y.NYB",
       "name": "U.S. Dollar Index",
       "category": "Rates & FX",
-      "date": "2026-09-30",
-      "latest": 101.40499877929688,
-      "open": 101.40799713134766,
-      "high": 101.46499633789062,
-      "low": 101.0260009765625,
+      "date": "2026-10-01",
+      "latest": 102.1259994506836,
+      "open": 101.46499633789062,
+      "high": 102.19200134277344,
+      "low": 101.45899963378906,
       "volume": 0.0,
-      "previous": 101.37000274658203,
+      "previous": 101.44999694824219,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 101.19000244140625,
-          "open": 101.12000274658203,
-          "high": 101.43000030517578,
-          "low": 101.05000305175781,
-          "volume": 0.0
-        },
         {
           "date": "2026-07-01",
           "latest": 101.38999938964844,
@@ -9136,15 +9128,23 @@
         },
         {
           "date": "2026-09-30",
-          "latest": 101.40499877929688,
-          "open": 101.40799713134766,
-          "high": 101.46499633789062,
-          "low": 101.0260009765625,
+          "latest": 101.44999694824219,
+          "open": 101.41000366210938,
+          "high": 101.52999877929688,
+          "low": 101.02999877929688,
+          "volume": 0.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 102.1259994506836,
+          "open": 101.46499633789062,
+          "high": 102.19200134277344,
+          "low": 101.45899963378906,
           "volume": 0.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:17Z",
+      "lastChecked": "2026-10-01T17:13:09Z",
       "status": "current"
     },
     "ZC": {
@@ -9152,22 +9152,14 @@
       "providerSymbol": "ZC=F",
       "name": "Corn",
       "category": "Agriculture",
-      "date": "2026-09-30",
-      "latest": 503.5,
-      "open": 522.0,
-      "high": 526.25,
-      "low": 503.0,
-      "volume": 264566.0,
-      "previous": 522.0,
+      "date": "2026-10-01",
+      "latest": 496.75,
+      "open": 501.0,
+      "high": 505.0,
+      "low": 495.0,
+      "volume": 258606.0,
+      "previous": 500.75,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 412.75,
-          "open": 402.0,
-          "high": 415.5,
-          "low": 400.5,
-          "volume": 17806.0
-        },
         {
           "date": "2026-07-01",
           "latest": 421.0,
@@ -9670,19 +9662,27 @@
           "open": 522.0,
           "high": 526.5,
           "low": 519.25,
-          "volume": 245775.0
+          "volume": 193043.0
         },
         {
           "date": "2026-09-30",
-          "latest": 503.5,
+          "latest": 500.75,
           "open": 522.0,
           "high": 526.25,
-          "low": 503.0,
-          "volume": 264566.0
+          "low": 498.75,
+          "volume": 193043.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 496.75,
+          "open": 501.0,
+          "high": 505.0,
+          "low": 495.0,
+          "volume": 258606.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZC%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:17Z",
+      "lastChecked": "2026-10-01T17:13:09Z",
       "status": "current"
     },
     "ZW": {
@@ -9690,22 +9690,14 @@
       "providerSymbol": "ZW=F",
       "name": "Wheat",
       "category": "Agriculture",
-      "date": "2026-09-30",
-      "latest": 677.0,
-      "open": 692.75,
-      "high": 700.25,
-      "low": 676.5,
-      "volume": 67805.0,
-      "previous": 692.75,
+      "date": "2026-10-01",
+      "latest": 675.5,
+      "open": 675.25,
+      "high": 683.5,
+      "low": 670.75,
+      "volume": 98391.0,
+      "previous": 675.75,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 580.75,
-          "open": 569.0,
-          "high": 584.25,
-          "low": 568.0,
-          "volume": 1482.0
-        },
         {
           "date": "2026-07-01",
           "latest": 592.0,
@@ -10208,19 +10200,27 @@
           "open": 689.5,
           "high": 694.0,
           "low": 681.5,
-          "volume": 63820.0
+          "volume": 61970.0
         },
         {
           "date": "2026-09-30",
-          "latest": 677.0,
+          "latest": 675.75,
           "open": 692.75,
           "high": 700.25,
-          "low": 676.5,
-          "volume": 67805.0
+          "low": 673.25,
+          "volume": 61970.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 675.5,
+          "open": 675.25,
+          "high": 683.5,
+          "low": 670.75,
+          "volume": 98391.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZW%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:18Z",
+      "lastChecked": "2026-10-01T17:13:09Z",
       "status": "current"
     },
     "ZS": {
@@ -10228,22 +10228,14 @@
       "providerSymbol": "ZS=F",
       "name": "Soybeans",
       "category": "Agriculture",
-      "date": "2026-09-30",
-      "latest": 1299.75,
-      "open": 1296.75,
-      "high": 1311.5,
-      "low": 1294.75,
-      "volume": 107610.0,
-      "previous": 1297.75,
+      "date": "2026-10-01",
+      "latest": 1275.5,
+      "open": 1291.0,
+      "high": 1295.0,
+      "low": 1273.75,
+      "volume": 113431.0,
+      "previous": 1293.0,
       "history": [
-        {
-          "date": "2026-06-30",
-          "latest": 1116.75,
-          "open": 1109.0,
-          "high": 1127.5,
-          "low": 1098.75,
-          "volume": 3252.0
-        },
         {
           "date": "2026-07-01",
           "latest": 1126.25,
@@ -10746,19 +10738,27 @@
           "open": 1287.0,
           "high": 1304.0,
           "low": 1284.0,
-          "volume": 226871.0
+          "volume": 148577.0
         },
         {
           "date": "2026-09-30",
-          "latest": 1299.75,
+          "latest": 1293.0,
           "open": 1296.75,
           "high": 1311.5,
-          "low": 1294.75,
-          "volume": 107610.0
+          "low": 1289.75,
+          "volume": 148577.0
+        },
+        {
+          "date": "2026-10-01",
+          "latest": 1275.5,
+          "open": 1291.0,
+          "high": 1295.0,
+          "low": 1273.75,
+          "volume": 113431.0
         }
       ],
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/ZS%3DF?range=3mo&interval=1d&includePrePost=false&events=div%2Csplits",
-      "lastChecked": "2026-09-30T16:35:18Z",
+      "lastChecked": "2026-10-01T17:13:10Z",
       "status": "current"
     }
   }
