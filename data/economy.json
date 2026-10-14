@@ -1,17 +1,13 @@
 {
-  "updated": "2026-10-13T17:52:46Z",
+  "updated": "2026-10-14T15:39:22Z",
   "series": {
     "CPIAUCSL": {
       "id": "CPIAUCSL",
       "name": "Consumer Price Index",
-      "date": "2026-08-01",
-      "latest": 334.131,
-      "previous": 332.813,
+      "date": "2026-09-01",
+      "latest": 336.298,
+      "previous": 334.131,
       "history": [
-        {
-          "date": "1991-08-01",
-          "value": 136.6
-        },
         {
           "date": "1991-09-01",
           "value": 137.0
@@ -1687,10 +1683,14 @@
         {
           "date": "2026-08-01",
           "value": 334.131
+        },
+        {
+          "date": "2026-09-01",
+          "value": 336.298
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL",
-      "lastChecked": "2026-10-13T17:52:42Z",
+      "lastChecked": "2026-10-14T15:39:20Z",
       "status": "current"
     },
     "UNRATE": {
@@ -3382,7 +3382,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE",
-      "lastChecked": "2026-10-13T17:52:42Z",
+      "lastChecked": "2026-10-14T15:39:20Z",
       "status": "current"
     },
     "PAYEMS": {
@@ -5074,7 +5074,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS",
-      "lastChecked": "2026-10-13T17:52:43Z",
+      "lastChecked": "2026-10-14T15:39:20Z",
       "status": "current"
     },
     "ICSA": {
@@ -6766,32 +6766,16 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ICSA",
-      "lastChecked": "2026-10-13T17:52:43Z",
+      "lastChecked": "2026-10-14T15:39:20Z",
       "status": "current"
     },
     "DFF": {
       "id": "DFF",
       "name": "Effective Fed Funds Rate",
-      "date": "2026-10-08",
+      "date": "2026-10-12",
       "latest": 3.88,
       "previous": 3.88,
       "history": [
-        {
-          "date": "2025-08-15",
-          "value": 4.33
-        },
-        {
-          "date": "2025-08-16",
-          "value": 4.33
-        },
-        {
-          "date": "2025-08-17",
-          "value": 4.33
-        },
-        {
-          "date": "2025-08-18",
-          "value": 4.33
-        },
         {
           "date": "2025-08-19",
           "value": 4.33
@@ -8455,23 +8439,35 @@
         {
           "date": "2026-10-08",
           "value": 3.88
+        },
+        {
+          "date": "2026-10-09",
+          "value": 3.88
+        },
+        {
+          "date": "2026-10-10",
+          "value": 3.88
+        },
+        {
+          "date": "2026-10-11",
+          "value": 3.88
+        },
+        {
+          "date": "2026-10-12",
+          "value": 3.88
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF",
-      "lastChecked": "2026-10-13T17:52:43Z",
+      "lastChecked": "2026-10-14T15:39:20Z",
       "status": "current"
     },
     "DGS3MO": {
       "id": "DGS3MO",
       "name": "3-Month Treasury Yield",
-      "date": "2026-10-08",
-      "latest": 4.23,
-      "previous": 4.22,
+      "date": "2026-10-09",
+      "latest": 4.25,
+      "previous": 4.23,
       "history": [
-        {
-          "date": "2025-02-05",
-          "value": 4.33
-        },
         {
           "date": "2025-02-06",
           "value": 4.34
@@ -10147,23 +10143,23 @@
         {
           "date": "2026-10-08",
           "value": 4.23
+        },
+        {
+          "date": "2026-10-09",
+          "value": 4.25
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS3MO",
-      "lastChecked": "2026-10-13T17:52:44Z",
+      "lastChecked": "2026-10-14T15:39:21Z",
       "status": "current"
     },
     "DGS1": {
       "id": "DGS1",
       "name": "1-Year Treasury Yield",
-      "date": "2026-10-08",
-      "latest": 4.44,
-      "previous": 4.42,
+      "date": "2026-10-09",
+      "latest": 4.47,
+      "previous": 4.44,
       "history": [
-        {
-          "date": "2025-02-05",
-          "value": 4.17
-        },
         {
           "date": "2025-02-06",
           "value": 4.19
@@ -11839,23 +11835,23 @@
         {
           "date": "2026-10-08",
           "value": 4.44
+        },
+        {
+          "date": "2026-10-09",
+          "value": 4.47
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS1",
-      "lastChecked": "2026-10-13T17:52:44Z",
+      "lastChecked": "2026-10-14T15:39:21Z",
       "status": "current"
     },
     "DGS2": {
       "id": "DGS2",
       "name": "2-Year Treasury Yield",
-      "date": "2026-10-08",
-      "latest": 4.75,
-      "previous": 4.77,
+      "date": "2026-10-09",
+      "latest": 4.8,
+      "previous": 4.75,
       "history": [
-        {
-          "date": "2025-02-05",
-          "value": 4.17
-        },
         {
           "date": "2025-02-06",
           "value": 4.21
@@ -13531,23 +13527,23 @@
         {
           "date": "2026-10-08",
           "value": 4.75
+        },
+        {
+          "date": "2026-10-09",
+          "value": 4.8
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS2",
-      "lastChecked": "2026-10-13T17:52:44Z",
+      "lastChecked": "2026-10-14T15:39:21Z",
       "status": "current"
     },
     "DGS10": {
       "id": "DGS10",
       "name": "10-Year Treasury Yield",
-      "date": "2026-10-08",
-      "latest": 5.22,
-      "previous": 5.28,
+      "date": "2026-10-09",
+      "latest": 5.24,
+      "previous": 5.22,
       "history": [
-        {
-          "date": "2025-02-05",
-          "value": 4.43
-        },
         {
           "date": "2025-02-06",
           "value": 4.45
@@ -15223,10 +15219,14 @@
         {
           "date": "2026-10-08",
           "value": 5.22
+        },
+        {
+          "date": "2026-10-09",
+          "value": 5.24
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10",
-      "lastChecked": "2026-10-13T17:52:44Z",
+      "lastChecked": "2026-10-14T15:39:21Z",
       "status": "current"
     },
     "MORTGAGE30US": {
@@ -16918,7 +16918,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US",
-      "lastChecked": "2026-10-13T17:52:45Z",
+      "lastChecked": "2026-10-14T15:39:21Z",
       "status": "current"
     },
     "HOUST": {
@@ -18610,7 +18610,7 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=HOUST",
-      "lastChecked": "2026-10-13T17:52:45Z",
+      "lastChecked": "2026-10-14T15:39:22Z",
       "status": "current"
     },
     "DCOILWTICO": {
@@ -20302,36 +20302,16 @@
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILWTICO",
-      "lastChecked": "2026-10-13T17:52:45Z",
+      "lastChecked": "2026-10-14T15:39:22Z",
       "status": "current"
     },
     "DTWEXBGS": {
       "id": "DTWEXBGS",
       "name": "Broad U.S. Dollar Index",
-      "date": "2026-10-02",
-      "latest": 121.3848,
-      "previous": 121.7882,
+      "date": "2026-10-09",
+      "latest": 121.6023,
+      "previous": 121.4469,
       "history": [
-        {
-          "date": "2025-01-31",
-          "value": 128.4828
-        },
-        {
-          "date": "2025-02-03",
-          "value": 129.109
-        },
-        {
-          "date": "2025-02-04",
-          "value": 128.1083
-        },
-        {
-          "date": "2025-02-05",
-          "value": 127.9751
-        },
-        {
-          "date": "2025-02-06",
-          "value": 128.2017
-        },
         {
           "date": "2025-02-07",
           "value": 128.4292
@@ -21991,23 +21971,39 @@
         {
           "date": "2026-10-02",
           "value": 121.3848
+        },
+        {
+          "date": "2026-10-05",
+          "value": 121.2708
+        },
+        {
+          "date": "2026-10-06",
+          "value": 120.8976
+        },
+        {
+          "date": "2026-10-07",
+          "value": 121.2558
+        },
+        {
+          "date": "2026-10-08",
+          "value": 121.4469
+        },
+        {
+          "date": "2026-10-09",
+          "value": 121.6023
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS",
-      "lastChecked": "2026-10-13T17:52:45Z",
+      "lastChecked": "2026-10-14T15:39:22Z",
       "status": "current"
     },
     "VIXCLS": {
       "id": "VIXCLS",
       "name": "VIX",
-      "date": "2026-10-12",
-      "latest": 15.21,
-      "previous": 14.84,
+      "date": "2026-10-13",
+      "latest": 15.27,
+      "previous": 15.21,
       "history": [
-        {
-          "date": "2025-02-26",
-          "value": 19.1
-        },
         {
           "date": "2025-02-27",
           "value": 21.13
@@ -23683,10 +23679,14 @@
         {
           "date": "2026-10-12",
           "value": 15.21
+        },
+        {
+          "date": "2026-10-13",
+          "value": 15.27
         }
       ],
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VIXCLS",
-      "lastChecked": "2026-10-13T17:52:46Z",
+      "lastChecked": "2026-10-14T15:39:22Z",
       "status": "current"
     }
   }
