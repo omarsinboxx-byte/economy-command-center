@@ -1,42 +1,27 @@
 {
-  "startedAt": "2026-10-21T15:46:59Z",
+  "startedAt": "2026-10-22T15:45:15Z",
   "datasets": {
     "economy": {
-      "status": "partial",
-      "lastChecked": "2026-10-21T15:47:02Z",
-      "updatedItems": 0,
-      "errors": [
-        "CPIAUCSL: No observations for CPIAUCSL",
-        "UNRATE: No observations for UNRATE",
-        "PAYEMS: No observations for PAYEMS",
-        "ICSA: No observations for ICSA",
-        "DFF: No observations for DFF",
-        "DGS3MO: No observations for DGS3MO",
-        "DGS1: No observations for DGS1",
-        "DGS2: No observations for DGS2",
-        "DGS10: No observations for DGS10",
-        "MORTGAGE30US: No observations for MORTGAGE30US",
-        "HOUST: No observations for HOUST",
-        "DCOILWTICO: No observations for DCOILWTICO",
-        "DTWEXBGS: No observations for DTWEXBGS",
-        "VIXCLS: No observations for VIXCLS"
-      ]
+      "status": "ok",
+      "lastChecked": "2026-10-22T15:45:33Z",
+      "updatedItems": 14,
+      "errors": []
     },
     "futures": {
       "status": "ok",
-      "lastChecked": "2026-10-21T15:47:08Z",
+      "lastChecked": "2026-10-22T15:45:39Z",
       "updatedItems": 20,
       "errors": []
     },
     "rates": {
       "status": "ok",
-      "lastChecked": "2026-10-21T15:47:08Z",
+      "lastChecked": "2026-10-22T15:45:39Z",
       "updatedItems": 4,
       "errors": [],
       "note": "HYSA/CD/card/auto/HELOC stay as reference snapshots until a durable provider is configured."
     }
   },
-  "updated": "2026-10-21T15:47:08Z",
-  "completedAt": "2026-10-21T15:47:08Z",
-  "overall": "partial"
+  "updated": "2026-10-22T15:45:39Z",
+  "completedAt": "2026-10-22T15:45:39Z",
+  "overall": "ok"
 }
