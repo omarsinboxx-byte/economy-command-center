@@ -1,36 +1,36 @@
 {
-  "updated": "2026-10-22T15:45:39Z",
+  "updated": "2026-10-23T15:34:23Z",
   "rates": {
     "3-Month Treasury": {
       "name": "3-Month Treasury",
-      "rate": 4.26,
-      "date": "2026-10-20",
+      "rate": 4.25,
+      "date": "2026-10-21",
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS3MO",
-      "lastChecked": "2026-10-22T15:45:39Z",
+      "lastChecked": "2026-10-23T15:34:23Z",
       "status": "current"
     },
     "1-Year Treasury": {
       "name": "1-Year Treasury",
-      "rate": 4.51,
-      "date": "2026-10-20",
+      "rate": 4.52,
+      "date": "2026-10-21",
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS1",
-      "lastChecked": "2026-10-22T15:45:39Z",
+      "lastChecked": "2026-10-23T15:34:23Z",
       "status": "current"
     },
     "2-Year Treasury": {
       "name": "2-Year Treasury",
-      "rate": 4.79,
-      "date": "2026-10-20",
+      "rate": 4.81,
+      "date": "2026-10-21",
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS2",
-      "lastChecked": "2026-10-22T15:45:39Z",
+      "lastChecked": "2026-10-23T15:34:23Z",
       "status": "current"
     },
     "30-Year Mortgage": {
       "name": "30-Year Mortgage",
-      "rate": 7.4,
-      "date": "2026-10-15",
+      "rate": 7.32,
+      "date": "2026-10-22",
       "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US",
-      "lastChecked": "2026-10-22T15:45:39Z",
+      "lastChecked": "2026-10-23T15:34:23Z",
       "status": "current"
     }
   }
