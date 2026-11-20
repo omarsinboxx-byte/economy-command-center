@@ -1,27 +1,27 @@
 {
-  "startedAt": "2026-11-19T19:49:02Z",
+  "startedAt": "2026-11-20T19:28:56Z",
   "datasets": {
     "economy": {
       "status": "ok",
-      "lastChecked": "2026-11-19T19:49:04Z",
+      "lastChecked": "2026-11-20T19:28:59Z",
       "updatedItems": 14,
       "errors": []
     },
     "futures": {
       "status": "ok",
-      "lastChecked": "2026-11-19T19:49:10Z",
+      "lastChecked": "2026-11-20T19:29:04Z",
       "updatedItems": 20,
       "errors": []
     },
     "rates": {
       "status": "ok",
-      "lastChecked": "2026-11-19T19:49:10Z",
+      "lastChecked": "2026-11-20T19:29:04Z",
       "updatedItems": 4,
       "errors": [],
       "note": "HYSA/CD/card/auto/HELOC stay as reference snapshots until a durable provider is configured."
     }
   },
-  "updated": "2026-11-19T19:49:10Z",
-  "completedAt": "2026-11-19T19:49:10Z",
+  "updated": "2026-11-20T19:29:04Z",
+  "completedAt": "2026-11-20T19:29:04Z",
   "overall": "ok"
 }
